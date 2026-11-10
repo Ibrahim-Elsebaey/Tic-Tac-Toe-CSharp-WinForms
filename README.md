@@ -20,3 +20,14 @@ Technologies Used
 Project Purpose
 
 This project was developed to practice C# programming, Windows Forms, event handling, and implementing game logic.
+
+## Screenshots
+
+### Game Start
+![Game Start](Game-Start.png)
+
+### Player 1 Wins
+![Player 1 Wins](Player1-Win.png)
+
+### Draw
+![Draw](Draw.png)
